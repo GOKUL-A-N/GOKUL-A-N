@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe Game**
+- 🔭 I’m currently working on **Tic Tac Toe Game,Portfolio**
 
-- 🌱 I’m currently learning **Javascript, Bootstrap**
+- 🌱 I’m currently learning **Javascript,DSA**
 
 - 👨‍💻 All of my projects are available at [https://gokul-a-n.github.io/cv/](https://gokul-a-n.github.io/cv/)
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, HTML, CSS,JAVASCRIPT**
 
 - 📫 How to reach me **gokulnatarajmoorthy@gmail.com**
 
