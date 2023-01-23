@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript,DSA**
 
-- 👨‍💻 All of my projects are available at [https://gokul-a-n.github.io/cv/](https://gokul-a-n.github.io/cv/)
+- 👨‍💻 All of my projects are available at [https://gokul-a-n.github.io/Portfolio/](https://gokul-a-n.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, HTML, CSS,JAVASCRIPT**
 
