@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gokulnatarajmoorthy@gmail.com**
 
-- 📄 Know about my experiences [https://gokul-a-n.github.io/cv/](https://gokul-a-n.github.io/cv/)
+- 📄 Know about my experiences [https://gokul-a-n.github.io/Portfolio/](https://gokul-a-n.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
